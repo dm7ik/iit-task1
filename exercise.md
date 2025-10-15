@@ -8,7 +8,7 @@
 
 ## 1) The wrong question: jobs vs. tasks
 
-Whenpeople ask “Will AI take our jobs?”, they usually imagine whole occupations disappearing. History (electricity, PCs, the internet) suggests something subtler: technologies **automate tasks**, which changes **job content, productivity**, and **demand**. That’s why economists talk about task-level automation rather than job-level extinction.
+When people ask “Will AI take our jobs?”, they usually imagine whole occupations disappearing. History (electricity, PCs, the internet) suggests something subtler: technologies **automate tasks**, which changes **job content, productivity**, and **demand**. That’s why economists talk about task-level automation rather than job-level extinction.
 
 - **Automation**: AI directly performs parts of the work (e.g., summarizing emails, drafting text, classifying support tickets).  
 - **Augmentation**: AI helps humans do the work faster or better (e.g., code suggestions, data cleaning assistants).  
